@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-<!--
-**0XsamuelX0/0XsamuelX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import FrontendDevelope from 'Samuel Salazar';
 
-Here are some ideas to get you started:
+class Bio extends FrontendDeveloper {
+  name     = 'Samuel Salazar';
+  title    = 'Frontend Developer';
+  company  = ' ∞ | Remote';
+  location = 'Medellín, COP';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Html', 'Css'];
+  databases  = ['MySQL'];
+  frameworks = ['React', 'Vue.JS'];
+}
+```
+
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> From [0XsamuelX0](https://github.com/0XsamuelX0)
+
+  
