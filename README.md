@@ -19,8 +19,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> From [0XsamuelX0](https://github.com/0XsamuelX0)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0XsamuelX0&show_icons=true)
 
 ### Programming & Styling Languages
@@ -47,3 +45,5 @@ class Skills extends SoftwareDeveloper {
 ### Other
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" > From [0XsamuelX0](https://github.com/0XsamuelX0)
