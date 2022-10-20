@@ -18,7 +18,7 @@ class Bio extends FrontendDeveloper {
 
 class Skills extends SoftwareDeveloper {
   Languages & Styling  = ['HTML5', 'CSS3', 'JavaScript', 'TypeScript'];
-  Frameworks Platforms & Libraries = ['React', 'NodeJS', 'Vue.js', 'NPM', 'SASS', 'Bootstrap'];
+  Frameworks Platforms & Libraries = ['React', 'NodeJS', 'Vue.js', 'NPM', 'Bootstrap'];
   Version Control  = ['Git', 'GitHub'];
   Databases  = ['MySQL'];
   Other  = ['Notion', 'Postman'];
