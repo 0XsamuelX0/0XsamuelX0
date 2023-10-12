@@ -7,9 +7,9 @@
 
   
 ```js
-import FrontendDevelope from 'Samuel Salazar';
+import IT | Cybersecurity from 'Samuel Salazar';
 
-class Bio extends FrontendDeveloper {
+class Bio extends IT | Cybersecurity {
   name     = 'Samuel Salazar';
   title    = 'Frontend Developer';
   company  = ' ∞ | Remote';
