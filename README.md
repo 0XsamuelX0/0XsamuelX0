@@ -9,11 +9,26 @@
 ```js
 import IT | Cybersecurity from 'Samuel Salazar';
 
-class Bio extends IT | Cybersecurity {
-  name     = 'Samuel Salazar';
-  title    = 'Frontend Developer';
-  company  = ' ∞ | Remote';
-  location = 'Medellín, COP';
+class Specialities extends IT | Cybersecurity {  
+'Cloud platforms';
+'Cloud Security Principles';
+'Infrastructure management';
+'Database administration';
+'Checkpoint';
+'Firewalls';
+'Routing';
+'Linux';
+'Microsoft Office';
+'VPN';
+}
+
+class Knowledge extends IT | Cybersecurity {
+'Networking';
+'Azure Network and Security';
+'Amazon AWS Network and Security';
+'Operating systems';
+'Servers';
+'Cisco';
 }
 
 class Skills extends SoftwareDeveloper {
@@ -22,6 +37,12 @@ class Skills extends SoftwareDeveloper {
   Version Control  = ['Git', 'GitHub'];
   Databases  = ['MySQL'];
   Other  = ['Notion', 'Postman'];
+}
+
+class Certifications extends IT | Cybersecurity {
+  Microsoft Azure = 'AZ-900';
+  Microsoft Azure = 'AZ-104';
+  Google = 'Associate Cloud Engineer';
 }
 ```
 
