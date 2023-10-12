@@ -36,7 +36,7 @@ class Skills extends SoftwareDeveloper {
   Frameworks Platforms & Libraries = ['React', 'NodeJS', 'Vue.js', 'NPM', 'Bootstrap'];
   Version Control  = ['Git', 'GitHub'];
   Databases  = ['MySQL'];
-  Other  = ['Notion', 'Postman'];
+  Other  = ['Notion', 'Postman', 'Linux', 'Kali'];
 }
 
 class Certifications extends IT | Cybersecurity {
